@@ -2,7 +2,6 @@
 - 👀 I’m interested in data aquisition and racing telemetry
 - 🌱 I’m currently learning c++ for microcontrollers
 - 💞️ I’m looking to collaborate on high performance .net
-- 📫 Reach me via email at jeffbarnard@gmail.com
 
 <!---
 JeffBarnard/JeffBarnard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
