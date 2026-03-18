@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeffBarnard
-- 👀 I’m interested in data aquisition and racing telemetry
-- 🌱 I’m currently learning c++ for microcontrollers
-- 💞️ I’m looking to collaborate on high performance .net
+- 👀 I’m interested in data aquisition and telemetry, from the shop floor to across the globe
+- 🌱 I’m currently learning the agentic workflow ecosystem, skills, prompts, orchestration
+- 💞️ I’m looking to collaborate on high performance .net projects
 - <img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height=16 />  https://www.linkedin.com/in/jeff-barnard-15241430b/
 
 <!---
